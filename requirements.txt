@@ -1,0 +1,15 @@
+streamlit
+pandas
+plotly
+numpy
+scikit-learn
+yake
+joblib
+pypdf
+lime
+langdetect
+deep-translator
+spacy
+transformers
+sentence-transformers
+torch
